@@ -1,0 +1,10 @@
+{
+  "name": "slack-sharerer",
+  "version": 2,
+  "builds": [
+    {
+      "src": "index.rs",
+      "use": "@now/rust"
+    }
+  ]
+}
